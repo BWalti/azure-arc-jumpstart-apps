@@ -18,4 +18,4 @@ spec:
     replicaCount: 2
     env:
       name: MESSAGE
-      value: Deploying to AKS on Edge via GitOps!
+      value: Deploying to AKS on Edge via GitOps! It's quite fast actually!
